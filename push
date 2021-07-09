@@ -1,0 +1,10 @@
+#!/bin/sh
+
+echo merzin.gitlab.io
+git push git@gitlab.com:merzin/merzin.gitlab.io master
+
+echo rasmusmerzin.gitlab.io
+git push git@gitlab.com:rasmusmerzin/rasmusmerzin.gitlab.io master
+
+echo rasmusmerzin.github.io
+git push git@github.com:rasmusmerzin/rasmusmerzin.github.io master
